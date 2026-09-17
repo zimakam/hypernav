@@ -1,4 +1,5 @@
 # hypernav
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22820995.svg)](https://doi.org/10.5281/zenodo.22820995)
 First φ-jump navigation engine for N-dimensional spaces. ⌊n/φ⌋ topology, Merkaba-γ lag, A*/Bidirectional/MultiGoal.
 # HyperNav — Hyperdimensional Navigation Engine
 
