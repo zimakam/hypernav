@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+type: software
+title: "HyperNav: A φ-Jump Navigation Engine for N-Dimensional Spaces"
+version: 1.0.0
+date-released: 2026-09-18
+authors:
+  - family-names: "Ziyavutdinov"
+    given-names: "Magomed Kamalovich"
+    alias: "Zimaka"
+    email: "zimakam@gmail.com"
+    orcid: "https://orcid.org/0009-0005-9212-9921"
+abstract: >
+  HyperNav is the first navigation engine for N-dimensional spaces based on
+  φ-jump topology (⌊n/φ⌋) and Merkaba-γ lag. Time is more important than
+  distance.
+keywords:
+  - "hyperdimensional navigation"
+  - "phi topology"
+  - "golden ratio"
+  - "Fibonacci graph"
+  - "A* algorithm"
+license: MIT
+repository-code: "https://github.com/zimakam/hypernav"
