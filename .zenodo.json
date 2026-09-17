@@ -1,1 +1,23 @@
-https://github.com/zimakam/hypernav/new/main
+{
+  "title": "HyperNav: A φ-Jump Navigation Engine for N-Dimensional Spaces",
+  "description": "First navigation engine based on φ-jump topology (⌊n/φ⌋), Fibonacci neighbors, and Merkaba-γ lag (time over distance). Supports 5 metrics and A*/Bidirectional/MultiGoal search.",
+  "creators": [
+    {
+      "name": "Ziyavutdinov, Magomed Kamalovich",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0005-9212-9921"
+    }
+  ],
+  "keywords": [
+    "hyperdimensional navigation",
+    "phi topology",
+    "golden ratio",
+    "Fibonacci graph",
+    "A* algorithm",
+    "relativistic navigation"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng"
+}
